@@ -1,0 +1,10 @@
+t()
+win=LogInPage()
+widget.addWidget(win)
+mainWin=TitleCard()
+widget.addWidget(mainWin)
+AivsHumanWin=AivsHuman()
+humanvhuman=HumanvsHuman()
+aivsai=AivsAi()
+widget.addWidget(AivsHumanWin)
+widget.addWidget(humanvhu
